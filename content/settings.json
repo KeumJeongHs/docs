@@ -1,0 +1,12 @@
+{
+  "title": "KeumJeongSW Docs",
+  "url": "https://localhost:3000",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "KeumJeongHs/docs",
+  "twitter": "",
+  "defaultDir": "",
+  "defaultBranch": "master"
+}
