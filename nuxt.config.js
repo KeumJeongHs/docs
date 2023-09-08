@@ -8,11 +8,11 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: '%s - Stella IT Docs',
+    titleTemplate: '%s - KeumJeongSW Docs',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' },
-      { hid: 'description', name: 'description', content: 'Stella IT의 공식 문서입니다.' }
+      { hid: 'description', name: 'description', content: 'KeumJeongSW의 공식 문서입니다.' }
     ],
     link: [
       { rel: 'stylesheet', href: 'https://pretendard.appie.dev/web/static/pretendard.css' },
